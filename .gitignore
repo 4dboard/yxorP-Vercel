@@ -1,0 +1,12 @@
+.idea
+.env
+/api/
+/.php/
+/.phpdoc/
+/vendor/
+/override/*
+!/override/.gitignore
+!/override/.htaccess
+!/override/example
+!/override/global
+.phpdoc
