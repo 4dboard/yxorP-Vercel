@@ -1,6 +1,23 @@
-<p align="center"><a href="https://github.com/4dboard/Proxy-yxorP/actions/workflows/pages/pages-build-deployment"><img src="https://github.com/4dboard/Proxy-yxorP/actions/workflows/pages/pages-build-deployment/badge.svg" /></a><br/><sup><b><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆️</g-emoji> <a href="https://gitpod.io/#https://github.com/4dboard/Proxy-yxorP" rel="nofollow"> LIVE DEMO </a></b><i> : A live, interactive demonstration is now accessible through Gitpod. (<a href="https://gitpod.io/#https://github.com/4dboard/Proxy-yxorP" rel="nofollow"> open demo </a>)</i></sup></p><p align="center"><sup><b><g-emoji class="g-emoji" alias="movie_camera" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a5.png">🎥️</g-emoji> <a href="https://4dboard.github.io/Proxy-yxorP/docs/movie.mp4" rel="nofollow"> MAKING OF VIDEO </a></b><i> : A brief film detailing the development of the yxorP project. (<a href="https://4dboard.github.io/Proxy-yxorP/docs/movie.mp4" rel="nofollow"> watch video </a>)</i></sup></p>
+
+<p align="center"><h1 align="center">yxorP Vercel Deployment</h1></p>
+<p align="center">Lets get your yxorP Web Proxy CMS deployed now!</p>
+<p align="center"><a align="center" href="https://vercel.com/new/clone?repository-url=https://github.com/4dboard/yxorP"><img src="https://vercel.com/button" /></a></p>
+<p align="center"><a align="center" href="https://vercel.com/new/clone?repository-url=https://github.com/4dboard/yxorP"><img src="https://user-images.githubusercontent.com/6468571/194155216-01a34a3e-5e6a-4b84-a887-ef47bc2dfb49.png" /></a></p>
 
 ![image](https://raw.githubusercontent.com/4dboard/Proxy-yxorP/main/asset/logo.png)
+
+![image](https://user-images.githubusercontent.com/6468571/194156054-fe51cc7e-87b9-42ed-aa39-dc2641e84400.png)
+
+![image](https://user-images.githubusercontent.com/6468571/194154942-1e17b89c-7e19-478c-b193-9712b32753df.png)
+
+![image](https://user-images.githubusercontent.com/6468571/194155076-c86c9468-47c9-4ccb-93aa-3e984d133249.png)
+
+![image](https://user-images.githubusercontent.com/6468571/194155032-329f3c0f-e370-4cd9-8e44-7fde963b238b.png)
+
+
+
+<p align="center"><a href="https://github.com/4dboard/Proxy-yxorP/actions/workflows/pages/pages-build-deployment"><img src="https://github.com/4dboard/Proxy-yxorP/actions/workflows/pages/pages-build-deployment/badge.svg" /></a><br/><sup><b><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆️</g-emoji> <a href="https://gitpod.io/#https://github.com/4dboard/Proxy-yxorP" rel="nofollow"> LIVE DEMO </a></b><i> : A live, interactive demonstration is now accessible through Gitpod. (<a href="https://gitpod.io/#https://github.com/4dboard/Proxy-yxorP" rel="nofollow"> open demo </a>)</i></sup></p><p align="center"><sup><b><g-emoji class="g-emoji" alias="movie_camera" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a5.png">🎥️</g-emoji> <a href="https://4dboard.github.io/Proxy-yxorP/docs/movie.mp4" rel="nofollow"> MAKING OF VIDEO </a></b><i> : A brief film detailing the development of the yxorP project. (<a href="https://4dboard.github.io/Proxy-yxorP/docs/movie.mp4" rel="nofollow"> watch video </a>)</i></sup></p>
+
 
 📢  [ [ARCHITECTURE](https://github.com/4dboard/Proxy-yxorP/wiki) ]
 ⚡  [ [DEVELOPERS](https://github.com/4dboard/Proxy-yxorP/blob/main/docs/index.md) ]
@@ -525,7 +542,7 @@ impossible. During the creation of these apps, the extensive capabilities of the
 
 <div style="text-align: center;">
 
-[![image](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/4dboard/yxorP) [![image](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy/?template=https://gitpod.io/#https://github.com/4dboard/yxorP) [![image](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/4dboard/yxorP) [![image](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/4dboard/yxorP)
+[![image](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/4dboard/yxorP-Vercel) [![image](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy/?template=https://gitpod.io/#https://github.com/4dboard/yxorP) [![image](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/4dboard/yxorP) [![image](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/4dboard/yxorP)
 
 </div>
 
